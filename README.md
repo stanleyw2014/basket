@@ -1,5 +1,5 @@
 # Getting Started
-
+I have limited knowledge on low-code technology, so I create a skeleton of REST API with SpringBoot.
 ### Usage
 to build:
 ./gradlew bootJar
